@@ -1,0 +1,25 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://devcoop.github.io/dmpc</loc>
+    </url>
+    <url>
+        <loc>http://devcoop.github.io/dmpc/embedded/firstStepEmbedded.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://devcoop.github.io/dmpc/proxy-ws/firstStepProxyWS.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://devcoop.github.io/dmpc/proxy-ws/configurationServeurProxy.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://devcoop.github.io/dmpc/CDA/crBiologie.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://devcoop.github.io/dmpc/docReference.htmlf</loc>
+    </url>
+    
+</urlset>
